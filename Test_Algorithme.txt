@@ -1,0 +1,78 @@
+Algorithme ff1
+var a,p,l[2][4],K:Reel;
+var T[5][6]:Entier;
+var vr,k,i:Entier;
+conste z:Entier;
+
+Fonction ff ():Entier
+var a,p,k,m:Entier;
+var M:Caractere;
+debut
+
+p=6;
+p%=4;
+p--;
+l=5;
+T[4]=6;
+a=p++;
+k=p ;
+z=7;
+
+retourne 5
+fin
+Procedure gg()
+var ap:Entier;
+debut
+ap=1;
+
+fin
+Fonction ff1 (a:Entier,b:Reel,l:Entier):Reel
+var k,s,v:Reel;
+var c:booleen;
+debut
+a=5;
+
+retourne a
+fin
+
+debut
+
+a=(5+1*(3+2/(4)));
+a=(((4)/2+3)*1+5);
+a=4;
+gg();
+
+i=(5+(1-1)*3);
+lire(a);
+selonque(a) faire
+   case 5:
+     afficher("wow");
+     arret;
+   case 6:
+     lire(i);
+     arret;
+   defaut:
+     afficher("False");
+fsq
+T[4][0]=3;
+
+si(a==5) alors
+  afficher("True");
+fsi
+pour k de 0..9 faire
+   a=1;
+fpour
+afficher(i);
+tantque(i!=0) faire
+   afficher(i);
+  
+ftq
+repeter
+  si(a==5) alors
+    lire(a);
+  fsi
+  i+=1;
+jusqua(i==3);
+k=0;
+fin
+
